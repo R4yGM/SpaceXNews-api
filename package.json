@@ -1,0 +1,18 @@
+{
+  "name": "spacex-api",
+  "version": "1.0.0",
+  "description": "package to get spacex updates or news and mission images",
+  "main": "SpaceX.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "R4yan",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.3",
+    "express": "^4.17.1",
+    "request": "^2.88.0",
+    "xml2json": "^0.11.2"
+  },
+  "devDependencies": {}
+}
