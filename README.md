@@ -8,28 +8,6 @@ Example of the json:
 ```json
 { 
    "rss":{ 
-      "version":"2.0",
-      "xml:base":"https://www.spacex.com/news/2014/12/16/x-marks-spot-falcon-9-attempts-ocean-platform-landing.",
-      "xmlns:dc":"http://purl.org/dc/elements/1.1/",
-      "xmlns:atom":"http://www.w3.org/2005/Atom",
-      "xmlns:og":"http://ogp.me/ns#",
-      "xmlns:article":"http://ogp.me/ns/article#",
-      "xmlns:book":"http://ogp.me/ns/book#",
-      "xmlns:profile":"http://ogp.me/ns/profile#",
-      "xmlns:video":"http://ogp.me/ns/video#",
-      "xmlns:product":"http://ogp.me/ns/product#",
-      "xmlns:content":"http://purl.org/rss/1.0/modules/content/",
-      "xmlns:foaf":"http://xmlns.com/foaf/0.1/",
-      "xmlns:rdfs":"http://www.w3.org/2000/01/rdf-schema#",
-      "xmlns:sioc":"http://rdfs.org/sioc/ns#",
-      "xmlns:sioct":"http://rdfs.org/sioc/types#",
-      "xmlns:skos":"http://www.w3.org/2004/02/skos/core#",
-      "xmlns:xsd":"http://www.w3.org/2001/XMLSchema#",
-      "xmlns:owl":"http://www.w3.org/2002/07/owl#",
-      "xmlns:rdf":"http://www.w3.org/1999/02/22-rdf-syntax-ns#",
-      "xmlns:rss":"http://purl.org/rss/1.0/",
-      "xmlns:site":"https://www.spacex.com/ns#",
-      "xmlns:schema":"http://schema.org/",
       "channel":{ 
          "title":{ 
 
