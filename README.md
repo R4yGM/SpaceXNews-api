@@ -2,7 +2,7 @@
 simple spacex api to request missions logos or news
 
 ## Lastest SpaceX news
-this api could give you the lastest SpaceX news with https://api-spacex.glitch.me/news[offline]
+this api could give you the lastest SpaceX news with https://api-spacex.glitch.me/news [offline]
 
 Example of the json:
 ```json
